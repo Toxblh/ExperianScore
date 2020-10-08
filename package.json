@@ -1,0 +1,16 @@
+{
+  "name": "experian-score",
+  "author": {
+    "name": "Toxblh"
+  },
+  "version": "1.0.0",
+  "main": "lib.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toxblh/ExperianScore.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.3.1"
+  }
+}
